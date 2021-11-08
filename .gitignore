@@ -23,7 +23,7 @@
 hs_err_pid*
 
 #Directory
-.idea/
+.idea
 
 #Other
 *.iml
